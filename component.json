@@ -1,0 +1,16 @@
+{
+  "name": "wgl-element",
+  "repo": "deniszatsepin/wgl-element",
+  "description": "Scene element for WebGL",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+	  "deniszatsepin/gl-matrix": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "element.js",
+  "scripts": [
+    "element.js"
+  ]
+}
